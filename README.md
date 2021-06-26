@@ -1,6 +1,7 @@
 # Meu repositório de urls
 
 ## Cursos no Youtube
+- https://www.youtube.com/c/Cataline/playlists #lógica
 - https://www.youtube.com/c/primecursosdobrasil/playlists
 - https://www.youtube.com/c/FilipeDeschamps/playlists
 - https://www.youtube.com/c/IAExpertAcademy/playlists
